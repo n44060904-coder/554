@@ -1,0 +1,22 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.doda{
+    width: 1160px;
+    height: 833px;
+    background-color: #343C56;
+    margin-top: 58px;
+    margin-left: 140px;
+    border-radius: 40px;
+}
+.n{
+    display: flex;
+    gap: 40px;
+}
+
+
+
+
